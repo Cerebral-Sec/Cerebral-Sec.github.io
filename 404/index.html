@@ -13,23 +13,87 @@
 </head>
 
 <body>
-  <div id="wrapper" class="wrapper">
-
-    <div class="container pt-9 pb-9 pt-md-13 pb-md-13">
-      <div class="row justify-content-center align-content-between">
-        <div class="col-9 text-center">
-          <h1 class="display-1 text-primary mb-4">Page not found</h1>
-        </div>
-        <div class="col-9 text-center mb-2">
-          <a href="/" class="btn btn-primary">Home</a>
-        </div>
-        <div class="col-9 text-center mb-2">
-          <a href="/contact" class="btn btn-primary">Contact Us</a>
-        </div>
-      </div>
-    </div>
+  <div id="content">
+		<div id="high axy">
+		</div>
+		<div class="entry">
+			<div class="text">Üzg</div>
+			<div class="title">404</div>
+		</div>
+	</div>
 
   </div>
 </body>
 
+
+
+
+<style>
+	
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:700|Roboto:Roboto:500,700,900&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
+
+* {
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	background-color: #191919;
+	color: white;
+	width: 100%;
+	height: 100%;
+	min-width: 100%;
+	min-height: 100%;
+}
+
+#icon {
+	background-image: url("/img/axy.svg");
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	top: 0px
+}
+
+#content {
+	width: 480px;
+	height: calc(100% - 240px);
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+}
+
+.entry {
+	position: absolute;
+	bottom: 0px;
+}
+
+.text {
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	font-weight: 700;
+	margin-bottom: 60px
+}
+
+.title {
+	font-family: 'Roboto Mono', monospace;
+	font-size: 16px;
+	font-weight: 700;
+}
+
+@media screen and (max-width:559px) {
+	#content {
+		width: calc(100% - 80px);
+		height: calc(100% - 160px);
+	}
+}
+
+@media screen and (max-height:559px) {
+	#content {
+		height: calc(100% - 160px);
+	}
+}
+
+</style>
 </html>
