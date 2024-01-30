@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cerebral Security OÜ</title>
-    <link>/</link>
+    <link>https://cerebralsec.com/</link>
     <description>Recent content on Cerebral Security OÜ</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jan 2024 05:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cerebralsec.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web Application Pentest</title>
-      <link>/services/pentest-services/web-application-pentest/</link>
-      <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/services/pentest-services/web-application-pentest/</guid>
+      <link>https://cerebralsec.com/services/pentest-services/web-application-pentest/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://cerebralsec.com/services/pentest-services/web-application-pentest/</guid>
       <description>A Web Application Penetration Test is an essential process for identifying and evaluating vulnerabilities in web applications.</description>
     </item>
     <item>
       <title>Internal Network Pentest</title>
-      <link>/services/pentest-services/internal-network-pentest/</link>
-      <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/services/pentest-services/internal-network-pentest/</guid>
+      <link>https://cerebralsec.com/services/pentest-services/internal-network-pentest/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://cerebralsec.com/services/pentest-services/internal-network-pentest/</guid>
       <description>Internal Network Penetration Testing is a critical security practice aimed at identifying and addressing vulnerabilities within an organization&amp;rsquo;s internal network.</description>
     </item>
     <item>
       <title>External Network Pentest</title>
-      <link>/services/pentest-services/external-network-pentest/</link>
-      <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/services/pentest-services/external-network-pentest/</guid>
+      <link>https://cerebralsec.com/services/pentest-services/external-network-pentest/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://cerebralsec.com/services/pentest-services/external-network-pentest/</guid>
       <description>External Network Penetration Testing is a critical process that involves assessing the security of an organization&amp;rsquo;s external network infrastructure.</description>
     </item>
     <item>
       <title>Mobile Application Pentest</title>
-      <link>/services/pentest-services/mobile-application-pentest/</link>
-      <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/services/pentest-services/mobile-application-pentest/</guid>
+      <link>https://cerebralsec.com/services/pentest-services/mobile-application-pentest/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://cerebralsec.com/services/pentest-services/mobile-application-pentest/</guid>
       <description>Mobile Application Penetration Testing is a specialized process designed to identify and address security vulnerabilities in mobile applications.</description>
     </item>
     <item>
       <title>Cloud Infrastructure Audit</title>
-      <link>/services/pentest-services/cloud-infrastructure-audit/</link>
-      <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/services/pentest-services/cloud-infrastructure-audit/</guid>
+      <link>https://cerebralsec.com/services/pentest-services/cloud-infrastructure-audit/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://cerebralsec.com/services/pentest-services/cloud-infrastructure-audit/</guid>
       <description>A Cloud Infrastructure Audit is a comprehensive assessment process designed to evaluate the security, compliance, and performance of cloud-based infrastructure.</description>
     </item>
     <item>
       <title>Red Team Engagements</title>
-      <link>/services/pentest-services/red-team-engagements/</link>
-      <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/services/pentest-services/red-team-engagements/</guid>
+      <link>https://cerebralsec.com/services/pentest-services/red-team-engagements/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://cerebralsec.com/services/pentest-services/red-team-engagements/</guid>
       <description>Red Team Engagement is an advanced and comprehensive security assessment that simulates real-world, sophisticated cyber attacks to evaluate the effectiveness of an organization&amp;rsquo;s overall security posture.</description>
     </item>
     <item>
       <title>Security Oriented Source Code Audit</title>
-      <link>/services/code-audits/</link>
-      <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/services/code-audits/</guid>
+      <link>https://cerebralsec.com/services/code-audits/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://cerebralsec.com/services/code-audits/</guid>
       <description>A Security-Oriented Code Audit is an in-depth analysis of an organization&amp;rsquo;s source code to uncover security vulnerabilities, ensure adherence to coding standards, and mitigate potential risks.</description>
     </item>
     <item>
       <title>Trainings</title>
-      <link>/services/trainings/</link>
-      <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/services/trainings/</guid>
+      <link>https://cerebralsec.com/services/trainings/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://cerebralsec.com/services/trainings/</guid>
       <description>Security Training is a vital service designed to educate and empower organizations and their employees in various aspects of cybersecurity.</description>
     </item>
     <item>
       <title>Bug Bounty Program Management</title>
-      <link>/services/managed-services/bug-bounty-management/</link>
-      <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/services/managed-services/bug-bounty-management/</guid>
+      <link>https://cerebralsec.com/services/managed-services/bug-bounty-management/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://cerebralsec.com/services/managed-services/bug-bounty-management/</guid>
       <description>Our Bug Bounty Program Management service is designed to assist companies in effectively managing their bug bounty programs.</description>
     </item>
     <item>
       <title>Hello World!</title>
-      <link>/blog/hello-world/</link>
+      <link>https://cerebralsec.com/blog/hello-world/</link>
       <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/blog/hello-world/</guid>
+      <guid>https://cerebralsec.com/blog/hello-world/</guid>
       <description>We recently added this blog to our website. From now on, we will share posts about our technical researches as well as explaining the theoretical topics of the security concept.</description>
     </item>
     <item>
       <title>Furkan Senan</title>
-      <link>/authors/furkan/</link>
-      <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/authors/furkan/</guid>
+      <link>https://cerebralsec.com/authors/furkan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cerebralsec.com/authors/furkan/</guid>
       <description>Security researcher with 9 years of experience working with reputed companies in EMEA and USA.</description>
     </item>
     <item>

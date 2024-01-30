@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cerebral Security All Services on Cerebral Security OÜ</title>
-    <link>/services/</link>
+    <link>https://cerebralsec.com/services/</link>
     <description>Recent content in Cerebral Security All Services on Cerebral Security OÜ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cerebralsec.com/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Security Oriented Source Code Audit</title>
-      <link>/services/code-audits/</link>
+      <link>https://cerebralsec.com/services/code-audits/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/services/code-audits/</guid>
+      <guid>https://cerebralsec.com/services/code-audits/</guid>
       <description>A Security-Oriented Code Audit is an in-depth analysis of an organization&amp;rsquo;s source code to uncover security vulnerabilities, ensure adherence to coding standards, and mitigate potential risks.</description>
     </item>
     <item>
       <title>Trainings</title>
-      <link>/services/trainings/</link>
+      <link>https://cerebralsec.com/services/trainings/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/services/trainings/</guid>
+      <guid>https://cerebralsec.com/services/trainings/</guid>
       <description>Security Training is a vital service designed to educate and empower organizations and their employees in various aspects of cybersecurity.</description>
     </item>
   </channel>
