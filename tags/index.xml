@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cerebral Security OÜ</title>
-    <link>/tags/</link>
+    <link>https://cerebralsec.com/tags/</link>
     <description>Recent content in Tags on Cerebral Security OÜ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jan 2024 05:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cerebralsec.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>English</title>
-      <link>/tags/english/</link>
+      <link>https://cerebralsec.com/tags/english/</link>
       <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/tags/english/</guid>
+      <guid>https://cerebralsec.com/tags/english/</guid>
       <description></description>
     </item>
     <item>
       <title>Estonian</title>
-      <link>/tags/estonian/</link>
+      <link>https://cerebralsec.com/tags/estonian/</link>
       <pubDate>Tue, 30 Jan 2024 05:00:00 +0000</pubDate>
-      <guid>/tags/estonian/</guid>
+      <guid>https://cerebralsec.com/tags/estonian/</guid>
       <description></description>
     </item>
   </channel>

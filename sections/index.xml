@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sections on Cerebral Security OÜ</title>
-    <link>/sections/</link>
+    <link>https://cerebralsec.com/sections/</link>
     <description>Recent content in Sections on Cerebral Security OÜ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cerebralsec.com/sections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Our Customers Are Saying About Cerebral Security</title>
       <link></link>

@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/services/pentest-services/</loc>
+    <loc>https://cerebralsec.com/services/pentest-services/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/services/pentest-services/web-application-pentest/</loc>
+    <loc>https://cerebralsec.com/services/pentest-services/web-application-pentest/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/services/managed-services/</loc>
+    <loc>https://cerebralsec.com/services/managed-services/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/services/pentest-services/internal-network-pentest/</loc>
+    <loc>https://cerebralsec.com/services/pentest-services/internal-network-pentest/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/services/pentest-services/external-network-pentest/</loc>
+    <loc>https://cerebralsec.com/services/pentest-services/external-network-pentest/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/services/pentest-services/mobile-application-pentest/</loc>
+    <loc>https://cerebralsec.com/services/pentest-services/mobile-application-pentest/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/services/pentest-services/cloud-infrastructure-audit/</loc>
+    <loc>https://cerebralsec.com/services/pentest-services/cloud-infrastructure-audit/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/services/pentest-services/red-team-engagements/</loc>
+    <loc>https://cerebralsec.com/services/pentest-services/red-team-engagements/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/services/code-audits/</loc>
+    <loc>https://cerebralsec.com/services/code-audits/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/services/trainings/</loc>
+    <loc>https://cerebralsec.com/services/trainings/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/services/managed-services/bug-bounty-management/</loc>
+    <loc>https://cerebralsec.com/services/managed-services/bug-bounty-management/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://cerebralsec.com/</loc>
     <lastmod>2024-01-30T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://cerebralsec.com/categories/</loc>
     <lastmod>2024-01-30T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>https://cerebralsec.com/blog/</loc>
     <lastmod>2024-01-30T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/english/</loc>
+    <loc>https://cerebralsec.com/tags/english/</loc>
     <lastmod>2024-01-30T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/estonian/</loc>
+    <loc>https://cerebralsec.com/tags/estonian/</loc>
     <lastmod>2024-01-30T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/hello-world/</loc>
+    <loc>https://cerebralsec.com/blog/hello-world/</loc>
     <lastmod>2024-01-30T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://cerebralsec.com/tags/</loc>
     <lastmod>2024-01-30T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/technical/</loc>
+    <loc>https://cerebralsec.com/categories/technical/</loc>
     <lastmod>2024-01-30T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/theoretical/</loc>
+    <loc>https://cerebralsec.com/categories/theoretical/</loc>
     <lastmod>2024-01-30T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/services/</loc>
+    <loc>https://cerebralsec.com/services/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://cerebralsec.com/about/</loc>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>https://cerebralsec.com/authors/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://cerebralsec.com/contact/</loc>
   </url><url>
-    <loc>/authors/furkan/</loc>
+    <loc>https://cerebralsec.com/authors/furkan/</loc>
   </url><url>
-    <loc>/sections/</loc>
+    <loc>https://cerebralsec.com/sections/</loc>
   </url>
 </urlset>
